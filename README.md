@@ -1,1 +1,1 @@
-# This is my repository for lab backups
+# This is my repository for Software engineering lab-work backups.
